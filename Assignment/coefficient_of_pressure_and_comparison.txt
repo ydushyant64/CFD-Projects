@@ -1,0 +1,2 @@
+pressure at point D:  -0.93 kpa
+coefficient of pressure at point D:  -1.55
